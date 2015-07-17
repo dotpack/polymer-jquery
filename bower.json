@@ -1,0 +1,19 @@
+{
+  "name": "polymer-jquery",
+  "version": "0.0.1",
+  "authors": [
+    "Ilia Ermolin <dotpack@gmail.com>"
+  ],
+  "main": "polymer-jquery.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
